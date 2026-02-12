@@ -66,8 +66,8 @@ program QM
 
   do i=0, iTmax
 
-    mu_down=40.Q+0
-    mu_up=-40.Q+0
+    mu_down=15.Q+0
+    mu_up=-15.Q+0
 
     T=real(i+1,kind=16)
     T_res(i)=T

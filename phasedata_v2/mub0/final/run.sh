@@ -7,4 +7,4 @@ rm *.dat
 cd ..
 make
 rm *.o
-#./exe
+./exe
